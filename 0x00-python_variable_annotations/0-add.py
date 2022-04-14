@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
+'''
+    - add func (Annotation)
+'''
+
 
 def add(a: float, b: float) -> float:
-    """Write a type-annotated function add that takes a float a
-    and a float b as arguments and returns their sum as a float."""
+    """This Function accepts two float arguments, (a & b) and then returns the sum in a float data type"""
     return a + b
